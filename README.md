@@ -1,6 +1,8 @@
 # goctl-yaml
 
 ![go-zero](https://img.shields.io/badge/Github-go--zero-brightgreen?link=https://github.com/tal-tech/go-zero&logo=github)
+![License](https://img.shields.io/badge/License-MIT-blue?link=https://github.com/Surpass-w/goctl-yaml/blob/main/README.md)
+![Go](https://github.com/zeromicro/go-zero/workflows/Go/badge.svg?branch=master)
 
 goctl-yaml是一款基于goctl的插件，用于生成vmp_gateway authenticate yaml file。
 
